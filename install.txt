@@ -1,0 +1,7 @@
+charset,Shift_JIS
+name,SCHOOL LIFE
+type,ghost
+directory,schoollife
+
+refresh,1
+refreshundeletemask,satori_savedata.txt
